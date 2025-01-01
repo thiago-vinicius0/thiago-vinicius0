@@ -18,5 +18,5 @@
  
 <div> 
   <a href="https://www.instagram.com/vini_ribeiro.01/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.tiktok.com/@viniribeiro_001 target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Tiktok-logo.svg" target="_blank"> </a>
+ <a href="https://www.tiktok.com/@viniribeiro_001 target="_blank"> <img src="<a href="https://pt.vecteezy.com/png/16716485-tiktok-png-icone">tiktok png ícone PNGs por Vecteezy</a>" target="_blank"> </a>
 </div>
