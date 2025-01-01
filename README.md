@@ -14,9 +14,9 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### redes sociais abaixo!
  
 <div> 
-  <a href="https://www.instagram.com/vini_ribeiro.01/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vini_ribeiro.01/ target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj25zYqL4_MbUGibcRX7WIwwjdjbpmkXvRowmwp8vU5skTbv-94lDUdKTot8JngKPebwuffxdclhJpSfOSQtMwPwOuS8SGdCKtDJcT6qNM4mKo-8E2fMn7CLe5ye-THgRYAFhOWZtKeGkQ/s0/Instagram+Logo+-+Download+Free+Vector+PNG.png" target="_blank"></a>
  <a href="https://www.tiktok.com/@viniribeiro_001 target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Tiktok-logo.svg" alt="Logo TikTok" width="100" height="100"> </a>
 </div>
